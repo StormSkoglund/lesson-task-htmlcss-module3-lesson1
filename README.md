@@ -4,7 +4,7 @@
 
 ### Brief
 
-Make the home page welcome section look like the prototype.
+Use positioning to make the welcome section of the home page look like the prototype.
 
 By the end of the task, your page should look like this:
 
